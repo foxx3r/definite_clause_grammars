@@ -1,5 +1,5 @@
 # definite_clause_grammars
-A script based on the concept DCG (Definite Clause Grammars).
+A script based on the concept DCG (Definite Clause Grammars) made in Prolog.
 
 To run that script, run on swipl:
 
